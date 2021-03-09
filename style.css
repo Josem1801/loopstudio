@@ -236,7 +236,7 @@ header{
     bottom: 0;
     right: 0;
     width: 50%;
-    height: 50%;
+    height: 58%;
     background: var(--White);
     display: flex;
     flex-direction: column;
@@ -245,12 +245,12 @@ header{
     z-index: 2;
 }
 .description h2{
-    font-size: 3.2vw;
+    font-size: 3.5vw;
     padding-bottom: 20px;
     width: 90%;
 }
 .description p{
-    font-size: 15px;
+    font-size: 16.5px;
     width: 90%;
 }
 /*________Media descriptiton_______*/
